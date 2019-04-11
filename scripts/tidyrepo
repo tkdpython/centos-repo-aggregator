@@ -1,0 +1,1 @@
+rm $(repomanage --keep=2 --old /upd_repo/li_updates/primary)

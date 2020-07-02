@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:7
 COPY /scripts/* /scripts
 COPY /etc/yum.repos.d/* /etc/yum.repos.d
 COPY /etc/pki/rpm-gpg/* /etc/pki/rpm-gpg

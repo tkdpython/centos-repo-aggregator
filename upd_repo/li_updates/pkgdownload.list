@@ -1123,12 +1123,6 @@ psutils.x86_64
 pth.x86_64
 pulseaudio-libs-glib2.x86_64
 pulseaudio-libs.x86_64
-puppet-agent-oauth.noarch
-puppet-agent.x86_64
-puppetlabs-release-pc1.noarch
-puppet.noarch
-puppet-server.noarch
-puppetserver.noarch
 pycairo.x86_64
 pygobject2.x86_64
 pygobject3-base.x86_64
